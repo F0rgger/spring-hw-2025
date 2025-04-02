@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev  # Встановлюємо профіль за замовчуванням
+    active: dev  
 
 engine-types:
   - бензиновий
